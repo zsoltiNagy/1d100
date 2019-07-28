@@ -1,0 +1,5 @@
+7.29.
+- sturctured d100  list, in json, from public folder
+- one button, on click selects one random item from a d100 list
+- one textfield to show selected item
+- bonus: select element, to select which d100 to choose from
